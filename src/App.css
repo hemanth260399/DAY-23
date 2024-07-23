@@ -1,0 +1,29 @@
+.topic {
+    color: lightseagreen;
+    text-align: center;
+}
+
+.topicinput {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.topicbutton {
+    background-color: lightseagreen;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    width: 100px;
+    height: 22px;
+    margin-left: 20px;
+}
+
+.filter {
+    display: flex;
+    flex-direction: row;
+}
+
+.filter1 {
+    display: grid;
+    flex-direction: row;
+}
